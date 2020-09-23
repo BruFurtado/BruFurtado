@@ -1,4 +1,4 @@
-<h2> Hello World, I'm Bruna </h2>
+## Hello World, I'm Bruna
 <img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
 
