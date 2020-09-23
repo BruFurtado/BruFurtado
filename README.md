@@ -4,7 +4,7 @@
 [![Devto Badge](https://img.shields.io/badge/-brunalima-0bb971?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/brufurtado)](https://dev.to/brufurtado)
 <img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
-<p><em> 🎓 Computer engineering student at <a href="http://www.unb.br">Federal University of Itajubá</a><br><br>🚀 Student at <a href="https://rocketseat.com.br/">Rocketseat</a>
+<p><em> 🎓 Computer engineering student at <a href="https://unifei.edu.br/">Federal University of Itajubá</a><br><br>🚀 Student at <a href="https://rocketseat.com.br/">Rocketseat</a>
 </em></p>
 
 <p>I'm 21 years old, I'm from Minas Gerais and I'm passionate about codes!</p>
