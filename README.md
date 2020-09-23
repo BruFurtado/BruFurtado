@@ -11,6 +11,6 @@
 
 <p>I want to learn, live new experiences and share knowledge!</p>
 
-💭 I am currently learning on Web and Mobile Development. I really like this area a lot! I'm studying the Rocketseat LaunchBase bootcamp and right after finishing it, I'm going to start the BootStamp GoStack. I aim to become a FullStack developer. My current skills are: HTML, CSS, Javascript and Node.js. As a Database, I am using PostgreSQL and MySQL.
+💭 I am currently learning on Web and Mobile Development. I really like this area a lot! I am to become a FullStack developer. My current skills are: HTML, CSS, Javascript and Node.js. As a Database, I am using PostgreSQL and MySQL.
 
 
