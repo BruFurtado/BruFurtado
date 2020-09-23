@@ -1,4 +1,5 @@
-<h2> Hi, I'm Bruna <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Bruna </h2>
+<img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
 Here are some ideas to get you started:
 
