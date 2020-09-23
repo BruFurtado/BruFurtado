@@ -1,9 +1,8 @@
 ## Hello World, I'm Bruna
 <img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
-
-[![Linkedin: brunalima](https://img.shields.io/badge/-brunalima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimadev/)](https://www.linkedin.com/in/brunalimadev/)
-[![GitHub Bruna](https://img.shields.io/github/followers/BruFurtado?label=Follow&style=social)](https://github.com/BruFurtado)
+[![Linkedin Badge](https://img.shields.io/badge/-brunalima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimadev/)](https://www.linkedin.com/in/brunalimadev/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunalimadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunalimadev@gmail.com)](mailto:brunalimadev@gmail.com)
 
 
 
