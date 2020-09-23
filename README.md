@@ -1,7 +1,7 @@
-## Hello World, I'm Bruna
+## Hello World, I'm Bruna!
 <img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
-<p><em> 🎓 Computer engineering student at <a href="http://www.unb.br">Federal University of Itajubá</a><br><br>🚀 Student at <a href="https://rocketseat.com.br/">Rocketseat</a>
+<br><p><em> 🎓 Computer engineering student at <a href="http://www.unb.br">Federal University of Itajubá</a><br><br>🚀 Student at <a href="https://rocketseat.com.br/">Rocketseat</a>
 </em></p><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunalima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimadev/)](https://www.linkedin.com/in/brunalimadev/) 
