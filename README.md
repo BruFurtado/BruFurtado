@@ -6,7 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunalima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimadev/)](https://www.linkedin.com/in/brunalimadev/) 
 [![Gmail Badge](https://img.shields.io/badge/-brunalimadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunalimadev@gmail.com)](mailto:brunalimadev@gmail.com)
-[![Devto Badge](https://img.shields.io/badge/-brunalima-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=https://dev.to/brufurtado)](https://dev.to/brufurtado)
+<a target="_blank" href="https://dev.to/brufurtado">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
 
 
 
