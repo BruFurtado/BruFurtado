@@ -8,26 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-brunalimadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunalimadev@gmail.com)](mailto:brunalimadev@gmail.com)
 [![Devto Badge](https://img.shields.io/badge/-brunalima-6633cc?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/brufurtado)](https://dev.to/brufurtado)
 
+I'm 21 years old, I'm from Minas Gerais and I'm passionate about codes!
 
 
-
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
