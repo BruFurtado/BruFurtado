@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**BruFurtado/BruFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Bruna <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
 
 Here are some ideas to get you started:
 
