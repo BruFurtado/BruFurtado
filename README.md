@@ -9,6 +9,10 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/brunalimadev/)
 
+<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 Here are some ideas to get you started:
 
