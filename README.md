@@ -1,16 +1,9 @@
-## Hello World, I'm Bruna!
-[![Linkedin Badge](https://img.shields.io/badge/-brunalima-0bb971?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimadev/)](https://www.linkedin.com/in/brunalimadev/) 
-[![Gmail Badge](https://img.shields.io/badge/-brunalimadev@gmail.com-0bb971?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunalimadev@gmail.com)](mailto:brunalimadev@gmail.com)
-[![Devto Badge](https://img.shields.io/badge/-brunalima-0bb971?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/brufurtado)](https://dev.to/brufurtado)
-<img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
+### Software Engineer | Backend | Node.js | TypeScript | SOLID | Clean Code | AWS
 
-<p><em> 🎓 Computer engineering student at <a href="https://unifei.edu.br/">Federal University of Itajubá</a><br><br>🚀 Student at <a href="https://rocketseat.com.br/">Rocketseat</a>
-</em></p>
+Sou desenvolvedora de software com +2 anos de experiência em análise, modelagem e implementação de APIs, focada em criar aplicações escaláveis e com boas práticas. Trabalho principalmente com JavaScript, TypeScript, Node.js, Clean Code e outras tecnologias relevantes. Além disso, também sou experiente em liderança, leads, fechamento de projetos, planejamento, prototipação no Figma, implementação de interfaces com React.js e React Native, deploy na AWS e pós deploy. Tenho uma visão abrangente e vivência em todas as fases de um projeto, o que facilita a comunicação e interação com outros times. Além disso, estou sempre atenta as atualizações e a crescente presença da Inteligência Artificial em todas áreas, me capacitando e aprofundando meus conhecimentos nessa área.
 
-<p>I'm 21 years old, I'm from Minas Gerais and I'm passionate about codes!</p>
+Gosto de vivenciar novas experiências e desafios para me superar e ajudar o meu time. Uma das minhas recentes conquistas foi a implementação de um aplicativo para personal trainers, incluindo áreas para alunos e para administração. Colaborei para digitalizar esse negócio, substituindo planilhas por um aplicativo que oferece mais facilidade, agilidade e acompanhamento dos alunos. Neste projeto, trabalhei com React Native usando a ferramenta Expo. A API REST consumida pelo aplicativo foi implementada em Node.js com o framework Express utilizando autenticação JWT. Outra conquista importante foi migrar de um site feito em Wordpress para um e-commerce que eu desenvolvi em Node.js/React.js. Aprendi a lidar com integração de meios de pagamento e utilizei Webhooks, além de adicionar uma nova funcionalidade de chat com a ferramenta Socket.IO.
 
-<p>I want to learn, live new experiences and share knowledge!</p>
-
-💭 I am currently learning on Web and Mobile Development. I really like this area a lot! I am to become a FullStack developer. My current skills are: HTML, CSS, Javascript and Node.js. As a Database, I am using PostgreSQL and MySQL.
+Estou sempre em busca do próximo nível, buscando novos conhecimentos e experiências enriquecedoras. Minha sede por aprendizado não se limita apenas à minha vida profissional, pois também participo de atividades voluntárias. Por 2 anos estive na liderança de um seminário de palestras e cursos na área da tecnologia realizado na minha universidade. No início deste ano, fiz parte do Projeto Rondon, do Ministério da Defesa, e atualmente sou membro do Space Squad da Rocketseat, onde geramos conteúdo para a comunidade de desenvolvedores por meio de podcasts, lives, vídeos, artigos e outros.
 
 
