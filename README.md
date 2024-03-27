@@ -1,9 +1,8 @@
-### Software Engineer | Backend | Node.js | TypeScript | SOLID | Clean Code | AWS
+<img align="right" width="400" src="./Javascript_Isometric.png">
 
-Sou desenvolvedora de software com +2 anos de experiência em análise, modelagem e implementação de APIs, focada em criar aplicações escaláveis e com boas práticas. Trabalho principalmente com JavaScript, TypeScript, Node.js, Clean Code e outras tecnologias relevantes. Além disso, também sou experiente em liderança, leads, fechamento de projetos, planejamento, prototipação no Figma, implementação de interfaces com React.js e React Native, deploy na AWS e pós deploy. Tenho uma visão abrangente e vivência em todas as fases de um projeto, o que facilita a comunicação e interação com outros times. Além disso, estou sempre atenta as atualizações e a crescente presença da Inteligência Artificial em todas áreas, me capacitando e aprofundando meus conhecimentos nessa área.
+### 🙋🏻‍♂️ Hi there!
+ - I am a software developer with more than 2 years of experience in analysis, modeling and implementation of APIs, focused on creating scalable applications with best practices.
 
-Gosto de vivenciar novas experiências e desafios para me superar e ajudar o meu time. Uma das minhas recentes conquistas foi a implementação de um aplicativo para personal trainers, incluindo áreas para alunos e para administração. Colaborei para digitalizar esse negócio, substituindo planilhas por um aplicativo que oferece mais facilidade, agilidade e acompanhamento dos alunos. Neste projeto, trabalhei com React Native usando a ferramenta Expo. A API REST consumida pelo aplicativo foi implementada em Node.js com o framework Express utilizando autenticação JWT. Outra conquista importante foi migrar de um site feito em Wordpress para um e-commerce que eu desenvolvi em Node.js/React.js. Aprendi a lidar com integração de meios de pagamento e utilizei Webhooks, além de adicionar uma nova funcionalidade de chat com a ferramenta Socket.IO.
-
-Estou sempre em busca do próximo nível, buscando novos conhecimentos e experiências enriquecedoras. Minha sede por aprendizado não se limita apenas à minha vida profissional, pois também participo de atividades voluntárias. Por 2 anos estive na liderança de um seminário de palestras e cursos na área da tecnologia realizado na minha universidade. No início deste ano, fiz parte do Projeto Rondon, do Ministério da Defesa, e atualmente sou membro do Space Squad da Rocketseat, onde geramos conteúdo para a comunidade de desenvolvedores por meio de podcasts, lives, vídeos, artigos e outros.
+> "Programming is not about typing, it's about thinking." - Rich Hickey.
 
 
